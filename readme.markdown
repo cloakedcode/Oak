@@ -4,7 +4,7 @@
 
 Oak is an extension/expansion of [Acorn](/skrat19/Acorn). Most notably it adds controller and router components.
 
-* [Router power](/skrat19/Oak/tree/master/config/router.php)
+* [Router power](/skrat19/Oak/tree/master/config/routes.php)
 * [The Controller](/skrat19/Oak/tree/master/oak/controller.php)
 
 
